@@ -82,7 +82,7 @@ const CommentForm = ({ slug }) => {
                   value={values.name}
                   onChange={handleChange}
                   onBlur={handleBlur}
-                  label="نام کاربری"
+                  label="نام"
                   id="name"
                   variant="outlined"
                   fullWidth
